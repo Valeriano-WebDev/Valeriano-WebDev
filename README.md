@@ -1,5 +1,6 @@
-https://github.com/Valeriano-WebDev/Valeriano-WebDev/blob/main/header.png
-<h4 align="center">Connect with me:</h4>
+
+![alt text](https://github.com/Valeriano-WebDev/Valeriano-WebDev/blob/main/header.png)
+<h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/jacob-valeriano" target="blank"><img align="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jacob-valeriano" height="50" width="60" /></a><a href="https://linkedin.com/in/jacob-valeriano" target="blank"><img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jacob-valeriano" height="50" width="60" /></a>
 </p>
